@@ -1,10 +1,10 @@
 {
-  "name" : "rickj/restclientbundle",
+  "name" : "mh/restclientbundle",
   "description" : "Provides REST request methods. Mapper bundle for php internal curl library",
   "type" : "symfony-bundle",
   "authors" : [{
-    "name" : "Rick Jelier",
-    "email" : "rickjelier@gmail.com"
+    "name" : "Stefan Stefanov",
+    "email" : "lordatrelios@gmail.com"
   }],
   "keywords" : [
     "REST client curl POST GET PUT DELETE OPTIONS CONNECT PATCH TRACE HEAD content-type payload library plugin"
